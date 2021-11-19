@@ -28,6 +28,10 @@ Trainer Git :-
 https://bitbucket.org/mslc-trainers/
 
 
+Liferay Source Code :-
+
+https://github.com/liferay/liferay-portal
+
 Liferay Basic config
 
 Santhosh K
