@@ -1,0 +1,4 @@
+Bundle-Name: employee-rest-app
+Bundle-SymbolicName: com.mslc.training.liferay.employee.rest
+Bundle-Version: 1.0.0
+Liferay-Configuration-Path: /configuration

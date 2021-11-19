@@ -1,0 +1,10 @@
+Bundle-Name: employee-service-api
+Bundle-SymbolicName: com.mslc.trainings.liferay.employee.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.mslc.trainings.liferay.employee.exception,\
+	com.mslc.trainings.liferay.employee.model,\
+	com.mslc.trainings.liferay.employee.service,\
+	com.mslc.trainings.liferay.employee.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../employee-service-service/service.xml

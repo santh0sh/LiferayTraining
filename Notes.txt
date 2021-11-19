@@ -1,0 +1,43 @@
+Santhosh Git Hub URL :- 
+
+https://github.com/santh0sh/LiferayTraining
+
+
+WebEx Link :- 
+
+https://rpsconsulting1.webex.com/wbxmjs/joinservice/sites/rpsconsulting1/meeting/download/85c1070ce8ae495898d3b50129aaf6b8?siteurl=rpsconsulting1&MTID=ma49ea312698c98b370743e3f6db66d09
+
+
+Usefull Links:-
+
+
+https://webflow.com/
+
+For class diagrams:-
+
+draw.io 
+
+https://learn.liferay.com/
+
+
+
+To view the Liferay API's :- http://localhost:8080/api/jsonws
+
+
+Trainer Git :-
+https://bitbucket.org/mslc-trainers/
+
+
+Liferay Basic config
+
+Santhosh K
+santhosh.kay@hotmail.com
+password :- 12345
+
+
+
+
+Key Note:-
+
+
+> Public pages are pages that anone can visit.

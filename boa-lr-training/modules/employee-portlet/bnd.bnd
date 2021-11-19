@@ -1,0 +1,4 @@
+Bundle-Name: employee-portlet
+Bundle-SymbolicName: com.mslc.trainings.liferay
+Bundle-Version: 1.0.0
+Export-Package: com.mslc.trainings.liferay.constants

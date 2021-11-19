@@ -1,0 +1,5 @@
+Bundle-Name: employee-angular-app
+Bundle-SymbolicName: com.mslc.training.liferay.angular
+Bundle-Version: 1.0.0
+Export-Package: com.mslc.training.liferay.angular.constants
+Web-ContextPath: /employee-angular-app

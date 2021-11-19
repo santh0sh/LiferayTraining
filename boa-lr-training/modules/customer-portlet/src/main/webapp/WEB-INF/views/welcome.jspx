@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jsp:root xmlns:jsp="http://java.sun.com/JSP/Page"
+		  xmlns:portlet="http://java.sun.com/portlet_2_0"
+		  xmlns:spring="http://www.springframework.org/tags"
+		  xmlns:form="http://www.springframework.org/tags/form"
+		  version="2.1">
+	<jsp:directive.page contentType="text/html" pageEncoding="UTF-8" />
+	<portlet:defineObjects/>
+	<portlet:renderURL var="toUserViewURL">
+		<portlet:param name="javax.portlet.action" value="userView" />
+	</portlet:renderURL>
+
+
+	<portlet:actionURL var="toUserViewActionURL" />
+
+
+	<h1>  <a href = "${toUserViewURL}"> Show User View </a></h1>
+
+	<p> Render URL :- ${toUserViewURL} </p>
+
+
+	<p> Action URL :-  ${toUserViewActionURL} </p>
+
+
+</jsp:root>
